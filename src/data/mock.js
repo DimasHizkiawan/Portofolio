@@ -6,7 +6,7 @@ export const portfolioData = {
     bio: 'I’m a passionate software engineering student with a strong interest in building modern, responsive web and mobile applications.',
     location: 'Central Java, Indonesia',
     email: 'dimashizkiawan@gmail.com',
-    availability: 'Available for freelance work',
+    availability: 'Anytime',
     github: 'https://github.com/DimasHizkiawan',
     instagram: 'https://instagram.com/neverzkingz',
     linkedin: '#',
